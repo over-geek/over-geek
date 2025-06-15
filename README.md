@@ -1,6 +1,6 @@
-<h2>Hey there! I'm Kenneth👋</h2>
+<h2>Hey there! I'm Isaac👋</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Kenneth -->
+<!-- ## 👋 &nbsp;Hey there! I'm Isaac -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
