@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Isaac👋</h2>
+<h2>Hey there! I'm Kenneth Kwame Agyare Kissi👋</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Isaac -->
 
@@ -6,8 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently at @microverseinc, studying Full-Stack Development.\
-🌱 &nbsp;I'm on track for learning more about CyberSecurity\
-✉️ &nbsp;You can shoot me an email at kenagy100@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at kagyare100@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio](https://over-geek.github.io/overgeek.github.io/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
