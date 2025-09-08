@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Kenneth Kwame Agyare Kissi👋</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Isaac -->
+<!-- ## 👋 &nbsp;Hey there! I'm Kenneth -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
